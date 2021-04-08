@@ -1,0 +1,73 @@
+[ {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:8080/jenkins/job/demo3/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 6,
+    "retry" : 26
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/jenkins/job/demo3/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 4,
+    "retry" : 23
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/jenkins/job/demo3/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 4,
+    "retry" : 20
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8080/jenkins/job/demo3/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 4,
+    "retry" : 17
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:8080/jenkins/job/demo3/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 4,
+    "retry" : 14
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8080/jenkins/job/demo3/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 4,
+    "retry" : 10
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/jenkins/job/demo3/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 4,
+    "retry" : 6
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/jenkins/job/demo3/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 4,
+    "retry" : 2
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:8080/jenkins/job/demo3/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 0
+  }
+} ]

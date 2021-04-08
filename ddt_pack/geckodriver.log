@@ -1,0 +1,181 @@
+1613639654927	geckodriver	INFO	geckodriver 0.19.1
+1613639654935	geckodriver	INFO	Listening on 127.0.0.1:55995
+1613639657994	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.uNThFYcn1qCY"
+1613639658835	Marionette	INFO	Enabled via --marionette
+[Parent 4368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613639660641	Marionette	INFO	Listening on port 56003
+1613639661132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613639661204	Marionette	DEBUG	Register listener.js for window 4294967297
+1613639664761	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1613639665114	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1613639665114	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1613639665453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/"
+1613639666824	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/"
+1613639666863	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/"
+1613639666949	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/"
+1613639666949	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/"
+1613639667060	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613639667181	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+1613639667270	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/user.php"
+1613639667419	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/user.php"
+1613639667420	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/user.php"
+1613639667449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613639667499	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+1613639668026	geckodriver	INFO	geckodriver 0.19.1
+1613639668034	geckodriver	INFO	Listening on 127.0.0.1:56113
+1613639671098	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.iS1ELn5L1eNr"
+1613639671940	Marionette	INFO	Enabled via --marionette
+[Child 13168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613639673935	Marionette	INFO	Listening on port 56121
+1613639674319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613639674407	Marionette	DEBUG	Register listener.js for window 4294967297
+1613639677969	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1613639678093	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1613639678094	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1613639678382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/"
+1613639679500	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/"
+1613639679540	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/"
+1613639679623	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/"
+1613639679623	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/"
+1613639679721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613639679864	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+1613639680442	geckodriver	INFO	geckodriver 0.19.1
+1613639680451	geckodriver	INFO	Listening on 127.0.0.1:56221
+1613639683477	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.zIl01juamEH9"
+1613639684274	Marionette	INFO	Enabled via --marionette
+[Child 12876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613639686116	Marionette	INFO	Listening on port 56229
+1613639686679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613639686790	Marionette	DEBUG	Register listener.js for window 4294967297
+1613639755357	geckodriver	INFO	geckodriver 0.19.1
+1613639755366	geckodriver	INFO	Listening on 127.0.0.1:56254
+1613639758449	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.lMc2EAd0NN7V"
+1613639759211	Marionette	INFO	Enabled via --marionette
+[Parent 13024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613639760987	Marionette	INFO	Listening on port 56262
+1613639761599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613639761698	Marionette	DEBUG	Register listener.js for window 4294967297
+1613639765239	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1613639765504	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1613639765504	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1613639765735	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/"
+1613639768040	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/"
+1613639768098	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/"
+1613639768404	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/"
+1613639768405	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/"
+1613639768525	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613639768654	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+1613639768739	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/user.php"
+1613639768912	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/user.php"
+1613639768913	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/user.php"
+1613639768963	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613639769164	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+[Parent 13024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613639769630	geckodriver	INFO	geckodriver 0.19.1
+1613639769638	geckodriver	INFO	Listening on 127.0.0.1:56370
+1613639772708	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.trkHBmst3gtp"
+1613639773528	Marionette	INFO	Enabled via --marionette
+[Parent 12700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613639775258	Marionette	INFO	Listening on port 56379
+1613639775912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613639775998	Marionette	DEBUG	Register listener.js for window 4294967297
+1613639779532	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1613639779633	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1613639779633	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1613639779961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/"
+1613639785336	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/"
+1613639785387	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/"
+1613639785473	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/"
+1613639785473	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/"
+1613639786086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613639786183	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+[Parent 12700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613639786839	geckodriver	INFO	geckodriver 0.19.1
+1613639786847	geckodriver	INFO	Listening on 127.0.0.1:56480
+1613639789935	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.HxOC9aT1v90w"
+1613639790750	Marionette	INFO	Enabled via --marionette
+[Child 8112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613639792511	Marionette	INFO	Listening on port 56488
+1613639793090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613639793185	Marionette	DEBUG	Register listener.js for window 4294967297
+1613639796744	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1613639796826	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1613639796826	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1613639797106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/"
+1613639798241	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/"
+1613639798295	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/"
+1613639798397	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/"
+1613639798400	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/"
+1613639798535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613639798705	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+[Child 12632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613640130655	geckodriver	INFO	geckodriver 0.19.1
+1613640130663	geckodriver	INFO	Listening on 127.0.0.1:56633
+1613640133708	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.GBljEwFUc3fJ"
+1613640134506	Marionette	INFO	Enabled via --marionette
+[Child 7956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613640136272	Marionette	INFO	Listening on port 56642
+1613640136857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613640136960	Marionette	DEBUG	Register listener.js for window 4294967297
+1613640140519	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1613640140654	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1613640140655	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1613640141380	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/"
+1613640142674	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/"
+1613640142738	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/"
+1613640143070	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/"
+1613640143070	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/"
+1613640143180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613640143484	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+1613640143582	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/user.php"
+1613640143720	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/user.php"
+1613640143720	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/user.php"
+1613640143773	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613640143813	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+[Child 13144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613640144235	geckodriver	INFO	geckodriver 0.19.1
+1613640144242	geckodriver	INFO	Listening on 127.0.0.1:56750
+1613640147285	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.lUiWBaZFiQxd"
+1613640148098	Marionette	INFO	Enabled via --marionette
+[Parent 12300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613640149862	Marionette	INFO	Listening on port 56759
+1613640150483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613640150589	Marionette	DEBUG	Register listener.js for window 4294967297
+1613640154141	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1613640154245	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1613640154246	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1613640154517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/"
+1613640155866	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/"
+1613640155910	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/"
+1613640155991	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/"
+1613640155993	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/"
+1613640156115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613640156225	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+[Parent 12300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613640156943	geckodriver	INFO	geckodriver 0.19.1
+1613640156951	geckodriver	INFO	Listening on 127.0.0.1:56861
+1613640160025	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.JxcHuhRF4uxj"
+1613640160838	Marionette	INFO	Enabled via --marionette
+[Parent 13060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613640162685	Marionette	INFO	Listening on port 56869
+1613640163213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613640163297	Marionette	DEBUG	Register listener.js for window 4294967297
+1613640166838	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1613640167084	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1613640167084	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1613640167506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/"
+1613640168920	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/"
+1613640168966	Marionette	DEBUG	Received DOM event "beforeunload" for "http://47.92.229.35/ecshop/"
+1613640169052	Marionette	DEBUG	Received DOM event "pagehide" for "http://47.92.229.35/ecshop/"
+1613640169053	Marionette	DEBUG	Received DOM event "unload" for "http://47.92.229.35/ecshop/"
+1613640169179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://47.92.229.35/ecshop/user.php"
+1613640169303	Marionette	DEBUG	Received DOM event "pageshow" for "http://47.92.229.35/ecshop/user.php"
+[Parent 13060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

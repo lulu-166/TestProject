@@ -1,0 +1,86 @@
+{
+  "uid" : "add4c1c277dcf560",
+  "name" : "test_001",
+  "fullName" : "unittest_package.test_unittest_baidu.baidu#test_001",
+  "historyId" : "10970871cf066868d78bcc64987fa6a5",
+  "time" : {
+    "start" : 1617689128224,
+    "stop" : 1617689128225,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: '111' != '112'\n- 111\n?   ^\n+ 112\n?   ^",
+  "statusTrace" : "self = <unittest_package.test_unittest_baidu.baidu testMethod=test_001>\n\n    def test_001(self):\n        a = '111'\n        b = '112'\n>       self.assertEqual(a, b)\nE       AssertionError: '111' != '112'\nE       - 111\nE       ?   ^\nE       + 112\nE       ?   ^\n\nunittest_package\\test_unittest_baidu.py:14: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1617689128223,
+      "stop" : 1617689128224,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1617689128300,
+      "stop" : 1617689128300,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "unittest_package"
+  }, {
+    "name" : "suite",
+    "value" : "test_unittest_baidu"
+  }, {
+    "name" : "subSuite",
+    "value" : "baidu"
+  }, {
+    "name" : "host",
+    "value" : "dc"
+  }, {
+    "name" : "thread",
+    "value" : "10436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "unittest_package.test_unittest_baidu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "add4c1c277dcf560.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,298 @@
+1613801760014	geckodriver	INFO	geckodriver 0.19.1
+1613801760025	geckodriver	INFO	Listening on 127.0.0.1:57121
+1613801763075	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.7CJL5LxGonqC"
+1613801763997	Marionette	INFO	Enabled via --marionette
+[Child 10504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613801766299	Marionette	INFO	Listening on port 57132
+1613801766333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613801766453	Marionette	DEBUG	Register listener.js for window 4294967297
+1613801766624	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1613801767244	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1613801767245	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1613801787729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://witem.duia.com/16665.html"
+1613801789307	Marionette	DEBUG	Received DOM event "pageshow" for "https://witem.duia.com/16665.html"
+1613801795160	Marionette	DEBUG	Register listener.js for window 4294967301
+1613801795222	Marionette	DEBUG	Register listener.js for window 4294967304
+1613801795268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 13968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613802411414	geckodriver	INFO	geckodriver 0.19.1
+1613802411423	geckodriver	INFO	Listening on 127.0.0.1:57353
+1613802414465	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.HSw8XyqQEmZb"
+1613802415457	Marionette	INFO	Enabled via --marionette
+[Child 13464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613802417461	Marionette	INFO	Listening on port 57361
+1613802417640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613802417757	Marionette	DEBUG	Register listener.js for window 4294967297
+1613802417837	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1613802418448	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1613802418449	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1613802419408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://witem.duia.com/16665.html"
+1613802420394	Marionette	DEBUG	Received DOM event "pageshow" for "https://witem.duia.com/16665.html"
+1613802426269	Marionette	DEBUG	Register listener.js for window 4294967301
+1613802426355	Marionette	DEBUG	Register listener.js for window 4294967304
+1613802426388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Unrecognized feature WEBRENDER
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+[Parent 13116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: https://js.zol.com.cn/pvn/z.pv, line 1: TypeError: n.getBoundingClientRect is not a function
+JavaScript warning: https://static.runoob.com/assets/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+WebGL(1F1C0800)::ForceLoseContext
+WebGL(1F1C0C00)::ForceLoseContext
+WebGL(1F1C1400)::ForceLoseContext
+WebGL(1F1C1800)::ForceLoseContext
+JavaScript error: https://github.githubassets.com/assets/chunk-vendor-111977e2.js, line 149: TypeError: window.customElements is undefined
+JavaScript error: https://github.githubassets.com/assets/chunk-vendor-111977e2.js, line 149: TypeError: window.customElements is undefined
+JavaScript error: https://github.githubassets.com/assets/chunk-vendor-111977e2.js, line 149: TypeError: window.customElements is undefined
+JavaScript error: https://github.githubassets.com/assets/chunk-vendor-111977e2.js, line 149: TypeError: window.customElements is undefined
+JavaScript error: https://github.githubassets.com/assets/chunk-vendor-111977e2.js, line 149: TypeError: window.customElements is undefined
+JavaScript error: https://github.githubassets.com/assets/chunk-vendor-111977e2.js, line 149: TypeError: window.customElements is undefined
+JavaScript warning: https://static.runoob.com/assets/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://g.csdnimg.cn/baidu-search/1.0.9/baidu-search.js, line 1: SyntaxError: JSON.parse: unterminated string at line 1 column 87 of the JSON data
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://g.csdnimg.cn/baidu-search/1.0.9/baidu-search.js, line 1: SyntaxError: JSON.parse: unterminated string at line 1 column 72 of the JSON data
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.baidu.com
+[Parent 13116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1614043776248	geckodriver	INFO	geckodriver 0.19.1
+1614043776257	geckodriver	INFO	Listening on 127.0.0.1:58716
+1614043779317	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.eWlxWPBWZTmU"
+1614043780426	Marionette	INFO	Enabled via --marionette
+[Child 2996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1614043782906	Marionette	INFO	Listening on port 58725
+1614043783059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614043783186	Marionette	DEBUG	Register listener.js for window 4294967297
+1614043783320	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1614043784107	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1614043784107	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1614043784595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://list.duia.com/8"
+1614043787177	Marionette	DEBUG	Received DOM event "pageshow" for "https://list.duia.com/8"
+1614043792844	Marionette	DEBUG	Register listener.js for window 4294967304
+1614043792885	Marionette	DEBUG	Register listener.js for window 4294967307
+1614043792934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Unrecognized feature WEBRENDER
+[Child 8940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ommon/ipc_channel_win.cc, line 346
+[Child 11916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1614043881830	Marionette	INFO	Listening on port 58888
+1614043882121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614043882243	Marionette	DEBUG	Register listener.js for window 4294967297
+1614043882299	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1614043882556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1614043882556	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1614043883061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://list.duia.com/8"
+1614043883796	Marionette	DEBUG	Received DOM event "pageshow" for "https://list.duia.com/8"
+1614043889471	Marionette	DEBUG	Register listener.js for window 4294967304
+1614043889538	Marionette	DEBUG	Register listener.js for window 4294967307
+1614043889609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Unrecognized feature WEBRENDER
+[Child 13180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1614070034999	geckodriver	INFO	geckodriver 0.19.1
+1614070035009	geckodriver	INFO	Listening on 127.0.0.1:63126
+1614070038098	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.8X5FXxg0B1tv"
+1614070038928	Marionette	INFO	Enabled via --marionette
+[Parent 14812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1614070040874	Marionette	INFO	Listening on port 63147
+1614070041347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614070041439	Marionette	DEBUG	Register listener.js for window 4294967297
+1614070041483	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1614070042093	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1614070042094	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1614070042523	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://list.duia.com/8"
+1614070045099	Marionette	DEBUG	Received DOM event "pageshow" for "https://list.duia.com/8"
+1614070050761	Marionette	DEBUG	Register listener.js for window 4294967304
+1614070050808	Marionette	DEBUG	Register listener.js for window 4294967307
+1614070050875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 14812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1614070132433	geckodriver	INFO	geckodriver 0.19.1
+1614070132440	geckodriver	INFO	Listening on 127.0.0.1:63289
+1614070135483	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.rgzmuNgBxHud"
+1614070136242	Marionette	INFO	Enabled via --marionette
+[Parent 20312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1614070138013	Marionette	INFO	Listening on port 63297
+1614070138649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614070138740	Marionette	DEBUG	Register listener.js for window 4294967297
+1614070138778	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1614070139350	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1614070139350	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1614070140001	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://list.duia.com/8"
+1614070142031	Marionette	DEBUG	Received DOM event "pageshow" for "https://list.duia.com/8"
+1614070147702	Marionette	DEBUG	Register listener.js for window 4294967304
+1614070147769	Marionette	DEBUG	Register listener.js for window 4294967307
+1614070147822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 20312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14720, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 14720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1614070212812	geckodriver	INFO	geckodriver 0.19.1
+1614070212820	geckodriver	INFO	Listening on 127.0.0.1:63425
+1614070215901	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dca\\AppData\\Local\\Temp\\rust_mozprofile.KKPSouRSEJ3w"
+1614070216679	Marionette	INFO	Enabled via --marionette
+1614070218475	Marionette	INFO	Listening on port 63433
+1614070219093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614070219162	Marionette	DEBUG	Register listener.js for window 4294967297
+1614070219191	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1614070219740	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1614070219740	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1614070220470	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://list.duia.com/8"
+1614070221723	Marionette	DEBUG	Received DOM event "pageshow" for "https://list.duia.com/8"
+1614070227422	Marionette	DEBUG	Register listener.js for window 4294967304
+1614070227489	Marionette	DEBUG	Register listener.js for window 4294967307
+1614070227529	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Unrecognized feature WEBRENDER
+[Parent 20460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+UG	Received DOM event "beforeunload" for "about:blank"
+1614070332444	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1614070332445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1614070333100	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://list.duia.com/8"
+1614070335095	Marionette	DEBUG	Received DOM event "pageshow" for "https://list.duia.com/8"
+1614070340873	Marionette	DEBUG	Register listener.js for window 4294967304
+1614070340906	Marionette	DEBUG	Register listener.js for window 4294967307
+1614070340920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Unrecognized feature WEBRENDER
+[Parent 6568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+hrome/common/ipc_channel_win.cc, line 346
+1614070464278	Marionette	INFO	Listening on port 63686
+1614070464922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614070465012	Marionette	DEBUG	Register listener.js for window 4294967297
+1614070465044	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1614070465664	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1614070465664	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1614070466177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://list.duia.com/8"
+1614070468595	Marionette	DEBUG	Received DOM event "pageshow" for "https://list.duia.com/8"
+1614070474312	Marionette	DEBUG	Register listener.js for window 4294967304
+1614070474364	Marionette	DEBUG	Register listener.js for window 4294967307
+1614070474437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1614070476700	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://g.csdnimg.cn/login-box/1.1.4/login-box.js, line 1: SecurityError: Permission denied to access property "checkPollingTimer" on cross-origin object
+[Parent 5816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Unrecognized feature WEBRENDER
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://g.csdnimg.cn/login-box/1.1.4/login-box.js, line 1: SecurityError: Permission denied to access property "checkPollingTimer" on cross-origin object
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 19984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ceived DOM event "pagehide" for "about:blank"
+1614070999987	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1614071000467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://list.duia.com/8"
+1614071002970	Marionette	DEBUG	Received DOM event "pageshow" for "https://list.duia.com/8"
+1614071008628	Marionette	DEBUG	Register listener.js for window 4294967304
+1614071008705	Marionette	DEBUG	Register listener.js for window 4294967307
+1614071008752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Unrecognized feature WEBRENDER
+[Child 20688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+e/common/ipc_channel_win.cc, line 346
+1614071044395	Marionette	INFO	Listening on port 64270
+1614071044521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614071044634	Marionette	DEBUG	Register listener.js for window 4294967297
+1614071044758	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1614071045281	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1614071045282	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1614071045784	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://list.duia.com/8"
+1614071048112	Marionette	DEBUG	Received DOM event "pageshow" for "https://list.duia.com/8"
+1614071053864	Marionette	DEBUG	Register listener.js for window 4294967304
+1614071053898	Marionette	DEBUG	Register listener.js for window 4294967307
+1614071053954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1614071056272	Marionette	DEBUG	Register listener.js for window 4294967311
+1614071056334	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Unrecognized feature WEBRENDER
+[Parent 21348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+errors will be ignored for this session
+1614071163830	Marionette	DEBUG	Register listener.js for window 4294967297
+1614071164002	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1614071164596	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1614071164596	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1614071165151	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://list.duia.com/8"
+1614071167969	Marionette	DEBUG	Received DOM event "pageshow" for "https://list.duia.com/8"
+1614071173707	Marionette	DEBUG	Register listener.js for window 4294967304
+1614071173764	Marionette	DEBUG	Register listener.js for window 4294967307
+1614071173812	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1614071176210	Marionette	DEBUG	Register listener.js for window 4294967311
+1614071176301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Unrecognized feature WEBRENDER
+[Parent 15000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

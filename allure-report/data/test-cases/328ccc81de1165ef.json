@@ -1,0 +1,84 @@
+{
+  "uid" : "328ccc81de1165ef",
+  "name" : "test_002",
+  "fullName" : "unittest_package.test_unittest_baidu.baidu#test_002",
+  "historyId" : "77294de5aaa4fc8c8ca1800a49772b76",
+  "time" : {
+    "start" : 1617689128300,
+    "stop" : 1617689128300,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1617689128223,
+      "stop" : 1617689128224,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1617689128300,
+      "stop" : 1617689128300,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "unittest_package"
+  }, {
+    "name" : "suite",
+    "value" : "test_unittest_baidu"
+  }, {
+    "name" : "subSuite",
+    "value" : "baidu"
+  }, {
+    "name" : "host",
+    "value" : "dc"
+  }, {
+    "name" : "thread",
+    "value" : "10436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "unittest_package.test_unittest_baidu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "328ccc81de1165ef.json",
+  "parameterValues" : [ ]
+}

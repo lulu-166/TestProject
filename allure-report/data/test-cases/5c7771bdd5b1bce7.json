@@ -1,0 +1,86 @@
+{
+  "uid" : "5c7771bdd5b1bce7",
+  "name" : "test_002",
+  "fullName" : "pythonRequest.loginpy_test.Login_demo#test_002",
+  "historyId" : "75daf8824f3afda943f6af5051087dea",
+  "time" : {
+    "start" : 1617758407057,
+    "stop" : 1617758407057,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1617758407048,
+      "stop" : 1617758407048,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1617758407058,
+      "stop" : 1617758407058,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pythonRequest"
+  }, {
+    "name" : "suite",
+    "value" : "loginpy_test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Login_demo"
+  }, {
+    "name" : "host",
+    "value" : "dc"
+  }, {
+    "name" : "thread",
+    "value" : "14444-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pythonRequest.loginpy_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c7771bdd5b1bce7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,167 @@
+{
+  "uid" : "8b8f4f4f6ed7671b",
+  "name" : "test_002",
+  "fullName" : "unittest_package.test_unittest_baidu.baidu#test_002",
+  "historyId" : "77294de5aaa4fc8c8ca1800a49772b76",
+  "time" : {
+    "start" : 1617689135884,
+    "stop" : 1617689135884,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1617689135805,
+      "stop" : 1617689135805,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1617689135884,
+      "stop" : 1617689135884,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "unittest_package"
+  }, {
+    "name" : "suite",
+    "value" : "test_unittest_baidu"
+  }, {
+    "name" : "subSuite",
+    "value" : "baidu"
+  }, {
+    "name" : "host",
+    "value" : "dc"
+  }, {
+    "name" : "thread",
+    "value" : "9400-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "unittest_package.test_unittest_baidu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "328ccc81de1165ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617689128300,
+        "stop" : 1617689128300,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "463fca8676a5603",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617688539744,
+        "stop" : 1617688539744,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b845e50378b3f59a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status: 0",
+      "time" : {
+        "start" : 1617688367761,
+        "stop" : 1617688367761,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "f497b3050ca4afe7",
+        "reportUrl" : "http://localhost:8080/jenkins/job/demo3/10/allure/#testresult/f497b3050ca4afe7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617689135884,
+          "stop" : 1617689135884,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "82603c3f1e2fd423",
+        "reportUrl" : "http://localhost:8080/jenkins/job/demo3/9/allure/#testresult/82603c3f1e2fd423",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617689135884,
+          "stop" : 1617689135884,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "e7885a8d1ea7dff2",
+        "reportUrl" : "http://localhost:8080/jenkins/job/demo3/8/allure/#testresult/e7885a8d1ea7dff2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617689135884,
+          "stop" : 1617689135884,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5c43bac8a86625a4",
+        "reportUrl" : "http://localhost:8080/jenkins/job/demo3/7/allure/#testresult/5c43bac8a86625a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617689135884,
+          "stop" : 1617689135884,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b6242fa9aa9739dd",
+        "reportUrl" : "http://localhost:8080/jenkins/job/demo3/6/allure/#testresult/b6242fa9aa9739dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617689128300,
+          "stop" : 1617689128300,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8b8f4f4f6ed7671b.json",
+  "parameterValues" : [ ]
+}

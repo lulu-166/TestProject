@@ -1,0 +1,86 @@
+{
+  "uid" : "8b91d58e342bd836",
+  "name" : "test_001",
+  "fullName" : "unittest_package.test_unittest_baidu.baidu#test_001",
+  "historyId" : "10970871cf066868d78bcc64987fa6a5",
+  "time" : {
+    "start" : 1617688539737,
+    "stop" : 1617688539737,
+    "duration" : 0
+  },
+  "description" : "验证：百度首页点击新闻后的跳转",
+  "descriptionHtml" : "<p>验证：百度首页点击新闻后的跳转</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1617688539736,
+      "stop" : 1617688539736,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1617688539744,
+      "stop" : 1617688539745,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "unittest_package"
+  }, {
+    "name" : "suite",
+    "value" : "test_unittest_baidu"
+  }, {
+    "name" : "subSuite",
+    "value" : "baidu"
+  }, {
+    "name" : "host",
+    "value" : "dc"
+  }, {
+    "name" : "thread",
+    "value" : "10928-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "unittest_package.test_unittest_baidu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b91d58e342bd836.json",
+  "parameterValues" : [ ]
+}

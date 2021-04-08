@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Apr 07 09:20:09 CST 2021","Wed Apr 07 09:20:09 CST 2021","0","unittest_package","test_unittest_baidu","baidu","","","test_001",""
+"passed","Wed Apr 07 09:20:07 CST 2021","Wed Apr 07 09:20:09 CST 2021","1630","testcase","test_sq_login","Test","","","testDemo",""
+"passed","Tue Apr 06 14:05:35 CST 2021","Tue Apr 06 14:05:35 CST 2021","0","unittest_package","test_unittest_baidu","baidu","","","test_002",""
+"passed","Wed Apr 07 09:20:07 CST 2021","Wed Apr 07 09:20:07 CST 2021","0","pythonRequest","loginpy_test","Login_demo","","","test_002",""
+"passed","Wed Apr 07 09:20:07 CST 2021","Wed Apr 07 09:20:07 CST 2021","0","pythonRequest","loginpy_test","Login_demo","","","test_001",""
+"passed","Wed Apr 07 09:20:07 CST 2021","Wed Apr 07 09:20:07 CST 2021","369","testcase","test_pytest_login","TestPytestLogin","","","test_login_data",""
